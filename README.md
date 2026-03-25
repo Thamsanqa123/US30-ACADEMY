@@ -3,13 +3,13 @@ A financial trading mentorship website, where clients can enroll for mentorship 
 
 **Live Demo**: https://thamsanqa123.github.io/US30-ACADEMY/
 
-##Tech Stack
+## Tech Stack
 - Fronted: vanilla HTML5|CSS3|JAVASCRIPT|FontAwsome
 - Backend: Public API (EmailJS)
 - Dev Tools: Git/Github
 - Deployment: GitHub Pages
 
-##Features
+## Features
 
 - **Hero Section**: Bold headline with dual CTA buttons ("View Programs" / "Book a Call") and abstract financial background 
 - **Pricing Cards**: Two-tier mentorship plans with feature lists, hover animations, and checkout buttons, which lead to the Contact Form 
@@ -18,4 +18,21 @@ A financial trading mentorship website, where clients can enroll for mentorship 
 - **Payment Mockups**: Placeholder buttons for PayPal, card payments, and payment plan options 
 - **Mobile-Responsive Navigation**: Hamburger menu with smooth toggle; fully functional across all device sizes(90%) 
 - **Sticky Header**: Persistent navigation with "Enroll Now" button for continuous conversion opportunity 
-- **Modern Aesthetic**: Dark theme with gold and electric blue accents; clean Inter typography 
+- **Modern Aesthetic**: Dark theme with gold and electric blue accents; clean Inter typography
+
+## The Process
+
+### 1. Requirement Analysis
+I started by mapping out the core requirements: a financial mentorship platform that inspires trust, showcases pricing clearly, and a section where it establishes the founder's authority. I broke the project into logical sections: header navigation, hero, founder , pricing cards, contact page, and footer.
+
+### 2. Design & Wireframing
+I sketched a layout focused on scannability. Key decisions included:
+- Placing the **pricing cards** to capture interest before validation
+- Using a **dark theme** to signal sophistication and reduce eye strain for long reading sessions
+- Limiting accent colors to gold and blue to maintain a premium, corporate-finance feel
+- A background video for estatics
+
+### 3. Development & Iteration
+I built the project using semantic HTML5 and CSS3 with Flexbox and Grid. JavaScript was used sparingly for the mobile menu toggle and for the backend Public API, for form validation.
+
+
