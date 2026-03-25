@@ -35,4 +35,28 @@ I sketched a layout focused on scannability. Key decisions included:
 ### 3. Development & Iteration
 I built the project using semantic HTML5 and CSS3 with Flexbox and Grid. JavaScript was used sparingly for the mobile menu toggle and for the backend Public API, for form validation.
 
+## What I Learned as a Final-Year Student Building This Project
+
+Building **US30 ACADEMY** was a pivotal learning experience that bridged academic theory with industry-ready execution.
+
+### Practical Front-End Architecture
+- I approached each section as a reusable component, which made styling and debugging more systematic.
+- **CSS organization:** I learned to use meaningful class names and avoid over-nesting, improving maintainability.
+
+### Design-to-Code Translation
+- I've gained confidence in implementing complex layouts (flex-wrap for cards, grid for footer) without relying on frameworks.
+- I have better understanding what APIs are for.
+
+### Version Control & Documentation
+- Writing a detailed README forced me to reflect on my decisions and communicate my process clearly—a skill I know recruiters value.
+- i learnt how to add my files to changes and commit and push my project
+
+## How Can It Be Improved
+
+While I'm proud of what I've built, I have identified several enhancements that would elevate this project:
+
+### Improvements
+- **React Migration** – Rebuild with a component-based framework for better state management and scalability
+- **Backend Integration** – Connect to a Node.js/Express API for actual authentication, enrollment, and payment processing (Stripe specifically)
+- **Database Connection** – Store user emails, enrollment status, and session attendance using PostgreSQL
 
